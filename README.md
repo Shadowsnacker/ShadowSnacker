@@ -1,12 +1,12 @@
 ## Greetings!
 
-I'm a developer building practicle web applications and learning something new everyday.
+I'm a developer building practical web applications and learning something new everyday.
 
 ### 🛠️ Technologies
 - **Languages:** JavaScript, Python, C, SQL
 - **Frontend:** HTML, CSS, React (learning)
 - **Backend:** Flask, Node.js (learning)
-- **Tools:** Git, SQLight, VS Code
+- **Tools:** Git, SQLite, VS Code
 
 ### 🚀 Currently working on
 - Building a Clock/Planner with JavaScript
@@ -14,7 +14,7 @@ I'm a developer building practicle web applications and learning something new e
 
 ### 🌱 Currently learning
 - Completing CS50 and applying concepts to real projects
-- Diving further to mastering JavaScript'n friends
+- Diving deeper into React and mastering it
 
 ### 📫 Connect with me!
 - Email: jeremyboyd0428@gmail.com
