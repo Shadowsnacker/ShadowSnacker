@@ -1,4 +1,4 @@
-## Greetings, I am Jeremy
+## Greetings!
 
 I'm a developer building practicle web applications and learning something new everyday.
 
