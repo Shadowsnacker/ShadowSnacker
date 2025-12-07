@@ -19,4 +19,4 @@ I'm a developer building practical web applications and learning something new e
 ### 📫 Connect with me!
 - Email: jeremyboyd0428@gmail.com
 - LinkedIN: www.linkedin.com/in/shadowsnacker
-- Discord: shadowsnacker89
+- Discord: [![Discord](https://img.shields.io/badge/Discord-shadowsnacker89-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/509122134484713472)
