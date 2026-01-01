@@ -13,8 +13,8 @@ I'm a developer building practical web applications and learning something new e
 - Expanding my portfolio with full-stack projects
 
 ### 🌱 Currently learning
-- Completing CS50 and applying concepts to real projects
-- Diving deeper into React and mastering it
+- Learning/Building projects to showcase proficiency
+- Diving deeper into React/Node, PostgreSQL
 
 ### 📫 Connect with me!
 - Email: jeremyboyd0428@gmail.com
