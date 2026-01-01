@@ -12,7 +12,7 @@ I'm a developer building practical web applications and learning something new e
 - Building a Clock/Planner with JavaScript
 - Expanding my portfolio with full-stack projects
 
-### 🌱 Currently learning
+### 🌱 Currently learning JavaScript
 - Learning/Building projects to showcase proficiency
 - Diving deeper into React/Node, PostgreSQL
 
