@@ -8,7 +8,7 @@ I'm a developer building practical applications via building and learning someth
 - **Backend:** Flask, Node.js (learning)
 - **Tools:** Git, VS Code, PostgreSQL, SQLite,
 
-### 🚀 Currently Projects
+### 🚀 Current Projects
 - A Clock/Planner with JavaScript
 - Habit Tracker Application
 - Comprehensive Civic Engagement Application
