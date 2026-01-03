@@ -1,16 +1,18 @@
 ## Greetings!
 
-I'm a developer building practical web applications and learning something new everyday.
+I'm a developer building practical applications via building and learning something new everyday.
 
 ### 🛠️ Technologies
-- **Languages:** JavaScript, Python, C, SQL
+- **Languages:** JavaScript, Python, C
 - **Frontend:** HTML, CSS, React (learning)
 - **Backend:** Flask, Node.js (learning)
-- **Tools:** Git, SQLite, VS Code
+- **Tools:** Git, VS Code, PostgreSQL, SQLite,
 
-### 🚀 Currently working on
-- Building a Clock/Planner with JavaScript
-- Expanding my portfolio with full-stack projects
+### 🚀 Currently Projects
+- A Clock/Planner with JavaScript
+- Habit Tracker Application
+- Comprehensive Civic Engagement Application
+- Expanding my portfolio with full-stack additions
 
 ### 🌱 Currently learning JavaScript
 - Learning/Building projects to showcase proficiency
