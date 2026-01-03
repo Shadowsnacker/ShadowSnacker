@@ -1,6 +1,6 @@
 ## Greetings!
 
-A great robot once said, "See a need, fill a need!"
+A great robot once said, "See a need, fill a need!"  
 I'm a developer learning to build practical applications via understanding something new everyday!
 
 ### 🛠️ Technologies
