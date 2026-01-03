@@ -1,10 +1,11 @@
 ## Greetings!
 
-I'm a developer building practical applications via learning something new everyday!
+A great robot once said, "See a need, fill a need!"
+I'm a developer learning to build practical applications via understanding something new everyday!
 
 ### 🛠️ Technologies
 - **Languages:** JavaScript, Python, C
-- **Frontend:** HTML, CSS, React (learning)
+- **Frontend:** HTML, CSS, React(learning)
 - **Backend:** Flask, Node.js (learning)
 - **Tools:** Git, VS Code, PostgreSQL, SQLite,
 
