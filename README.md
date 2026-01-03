@@ -1,6 +1,6 @@
 ## Greetings!
 
-I'm a developer building practical applications via building and learning something new everyday.
+I'm a developer building practical applications via learning something new everyday!
 
 ### 🛠️ Technologies
 - **Languages:** JavaScript, Python, C
